@@ -1,2 +1,4 @@
 Commit 1 to master branch by admin
 Commit 1 to main branch by collaborator
+
+Commit 2 to main branch by admin
